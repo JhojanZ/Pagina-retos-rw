@@ -1,0 +1,38 @@
+.retos-contenedor {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  overflow-x: auto;
+}
+
+.carta {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 0; 
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  flex: 0 0 auto;
+  min-width: 50px;
+  width: auto; 
+  min-height: 500px;
+  height: auto;
+  box-sizing: border-box;
+  cursor: pointer; 
+  transition: all 0.3s ease; /* Transición suave */
+}
+
+.carta-seleccionada {
+  flex: 0 0 600px; /* Tamaño fijo para la carta seleccionada */
+}
+
+.carta h2 {
+  margin-top: 0;
+}
+
+.carta p {
+  margin-bottom: 0;
+}
+
+.descripcion-expandida {
+  margin-top: 16px;
+}
