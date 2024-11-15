@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pagina-retos-rw/static/css/main.b942b68b.css",
-    "main.js": "/Pagina-retos-rw/static/js/main.872391f9.js",
-    "static/js/453.0f433085.chunk.js": "/Pagina-retos-rw/static/js/453.0f433085.chunk.js",
-    "index.html": "/Pagina-retos-rw/index.html",
-    "main.b942b68b.css.map": "/Pagina-retos-rw/static/css/main.b942b68b.css.map",
-    "main.872391f9.js.map": "/Pagina-retos-rw/static/js/main.872391f9.js.map",
-    "453.0f433085.chunk.js.map": "/Pagina-retos-rw/static/js/453.0f433085.chunk.js.map"
+    "main.css": "/my-app/static/css/main.b942b68b.css",
+    "main.js": "/my-app/static/js/main.6e34543e.js",
+    "static/js/453.0f433085.chunk.js": "/my-app/static/js/453.0f433085.chunk.js",
+    "index.html": "/my-app/index.html",
+    "main.b942b68b.css.map": "/my-app/static/css/main.b942b68b.css.map",
+    "main.6e34543e.js.map": "/my-app/static/js/main.6e34543e.js.map",
+    "453.0f433085.chunk.js.map": "/my-app/static/js/453.0f433085.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b942b68b.css",
-    "static/js/main.872391f9.js"
+    "static/js/main.6e34543e.js"
   ]
 }
