@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pagina-retos/static/css/main.b942b68b.css",
+    "main.js": "/Pagina-retos/static/js/main.b35f35ad.js",
+    "static/js/453.0f433085.chunk.js": "/Pagina-retos/static/js/453.0f433085.chunk.js",
+    "index.html": "/Pagina-retos/index.html",
+    "main.b942b68b.css.map": "/Pagina-retos/static/css/main.b942b68b.css.map",
+    "main.b35f35ad.js.map": "/Pagina-retos/static/js/main.b35f35ad.js.map",
+    "453.0f433085.chunk.js.map": "/Pagina-retos/static/js/453.0f433085.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b942b68b.css",
+    "static/js/main.b35f35ad.js"
+  ]
+}
