@@ -23,7 +23,7 @@ function Pasajes() {
           className={`carta ${selectedCard?.id === item.id ? 'carta-seleccionada' : ''}`}
           onClick={() => handleCardClick(item)}
         >
-          <img src={item.image} alt={item.title} className="carta-imagen" />
+          <img src={item.image} alt="Singular" className="carta-imagen" />
           <h2>{item.title}</h2>
           <p>{item.description}</p>
           {selectedCard?.id === item.id && (

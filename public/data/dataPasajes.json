@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "title": "Card 1",
-      "description": "This is the first card.",
-      "image": "/imgPasasjes/Singular.webp",
+      "title": "Iconoclasta",
+      "description": "Este es un pasaje de retos",
+      "image": "/data/imgPasajes/Singular.webp",
       "retos": ["Peregrinación", "Límite", "Magnanimidad",	"Ascensión forzada",	"Cleptómano divino",	
                 "Hipocresía", "Filicidio",	"Maratón Divina",	"Destino final",	"Penitencia",	"Exclusión"]
     },

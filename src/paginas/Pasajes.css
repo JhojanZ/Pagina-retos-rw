@@ -25,6 +25,15 @@
   flex: 0 0 600px; /* Tamaño fijo para la carta seleccionada */
 }
 
+.carta-imagen {
+  width: 100px;
+  height: 100px;
+  height: auto;
+  border-radius: 8px 8px 8px 8px; /* Redondea las esquinas superiores */
+  background-color: black;
+}
+
+
 .carta h2 { 
   margin-top: 0;
 }
@@ -35,4 +44,7 @@
 
 .descripcion-expandida {
   margin-top: 16px;
+  border-bottom: black;
+  gap: 10px;
+  background-color: aqua;
 }
