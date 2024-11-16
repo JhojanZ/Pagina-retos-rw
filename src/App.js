@@ -7,8 +7,8 @@ function App() {
       <h1>Home Page</h1>
       <nav>
         <ul>
-          <li><Link to="/paginas/Retos">Page 1</Link></li>
-          <li><Link to="/paginas/Pasajes">Page 2</Link></li>
+          <li><Link to="/paginas/Retos">Retos</Link></li>
+          <li><Link to="/paginas/Pasajes">Pasajes</Link></li>
         </ul>
       </nav>
     </div>

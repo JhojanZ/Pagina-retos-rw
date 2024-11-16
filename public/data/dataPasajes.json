@@ -2,7 +2,10 @@
     {
       "id": 1,
       "title": "Card 1",
-      "description": "This is the first card."
+      "description": "This is the first card.",
+      "image": "/imgPasasjes/Singular.webp",
+      "retos": ["Peregrinación", "Límite", "Magnanimidad",	"Ascensión forzada",	"Cleptómano divino",	
+                "Hipocresía", "Filicidio",	"Maratón Divina",	"Destino final",	"Penitencia",	"Exclusión"]
     },
     {
       "id": 2,
@@ -12,11 +15,6 @@
     {
       "id": 3,
       "title": "Card 3",
-      "description": "This is the second card."
-    },
-    {
-      "id": 99,
-      "title": "Personalizado",
       "description": "This is the second card."
     },
     {
